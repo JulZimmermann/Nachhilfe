@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nachhilfe.iml" filepath="$PROJECT_DIR$/.idea/modules/Nachhilfe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nachhilfe.iml" filepath="$PROJECT_DIR$/Nachhilfe.iml" />
     </modules>
   </component>

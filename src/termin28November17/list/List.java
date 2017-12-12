@@ -1,7 +1,5 @@
 package termin28November17.list;
 
-import termin21November17.MethodenKonzepte;
-
 public class List {
 
     Knoten start;
